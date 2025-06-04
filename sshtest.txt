@@ -1,0 +1,2 @@
+新建一个ssh秘钥，测试git pull & git push 功能
+用来测试git 与GitHub 的本地与线上仓库的同步
